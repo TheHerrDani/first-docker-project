@@ -14,7 +14,7 @@ deploy:
   provider: elasticbeanstalk
   region: "eu-central-1"
   app: "first-docker-project"
-  env: "Firstdockerprojectenv-env"
+  env: "Firstdockerproject-env"
   bucket_name: "elasticbeanstalk-eu-central-1-557666194127"
   bucket_path: "first-docker-project"
   on:
